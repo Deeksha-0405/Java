@@ -1,0 +1,9 @@
+package Day3.Polymorphisum;
+
+public class Dog extends Animal {
+	/*
+	public void animalSound() {
+	    System.out.println("The dog says: bow wow");
+	  }
+*/
+}
